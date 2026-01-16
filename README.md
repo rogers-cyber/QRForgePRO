@@ -4,6 +4,12 @@ QRForge PRO v2.0.0 is a professional Python desktop application for **designing,
 This repository contains the **full source code**, allowing you to customize QR generation logic, styling options, canvas behavior, export formats, and UI theming for personal or commercial design workflows.
 
 ------------------------------------------------------------
+🌟 SCREENSHOT
+------------------------------------------------------------
+
+<img alt="FileScope Main Interface" src="https://github.com/rogers-cyber/QRForgePRO/blob/main/QRForge_PRO-interface.jpg" />
+
+------------------------------------------------------------
 🌟 FEATURES
 ------------------------------------------------------------
 
@@ -146,3 +152,4 @@ Website: https://matetools.gumroad.com
 Distributed as commercial source code.  
 You may use it for personal or commercial projects.  
 Redistribution, resale, or rebranding as a competing product is **not allowed**.
+
